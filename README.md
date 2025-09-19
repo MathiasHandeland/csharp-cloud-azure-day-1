@@ -1,3 +1,7 @@
+# nigel said ok
+
+
+
 # C# Cloud Azure Day One
 
 ## Learning Objectives
